@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "kBDyVQlysD4NFv9oEJdIAPpux73mgQwMcX68weUu0uA=",
+  "Source": "CareerPlatform.WebAPI",
+  "BasePath": "_content/CareerPlatform.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

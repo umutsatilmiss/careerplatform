@@ -1,0 +1,15 @@
+D:\Projects\CareerPlatform\CareerPlatform.Model\bin\Debug\net6.0\CareerPlatform.Model.deps.json
+D:\Projects\CareerPlatform\CareerPlatform.Model\bin\Debug\net6.0\CareerPlatform.Model.dll
+D:\Projects\CareerPlatform\CareerPlatform.Model\bin\Debug\net6.0\CareerPlatform.Model.pdb
+D:\Projects\CareerPlatform\CareerPlatform.Model\bin\Debug\net6.0\Infrastructure.dll
+D:\Projects\CareerPlatform\CareerPlatform.Model\bin\Debug\net6.0\Infrastructure.pdb
+D:\Projects\CareerPlatform\CareerPlatform.Model\obj\Debug\net6.0\CareerPlatform.Model.csproj.AssemblyReference.cache
+D:\Projects\CareerPlatform\CareerPlatform.Model\obj\Debug\net6.0\CareerPlatform.Model.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CareerPlatform\CareerPlatform.Model\obj\Debug\net6.0\CareerPlatform.Model.AssemblyInfoInputs.cache
+D:\Projects\CareerPlatform\CareerPlatform.Model\obj\Debug\net6.0\CareerPlatform.Model.AssemblyInfo.cs
+D:\Projects\CareerPlatform\CareerPlatform.Model\obj\Debug\net6.0\CareerPlatform.Model.csproj.CoreCompileInputs.cache
+D:\Projects\CareerPlatform\CareerPlatform.Model\obj\Debug\net6.0\CareerPlatform.Model.csproj.CopyComplete
+D:\Projects\CareerPlatform\CareerPlatform.Model\obj\Debug\net6.0\CareerPlatform.Model.dll
+D:\Projects\CareerPlatform\CareerPlatform.Model\obj\Debug\net6.0\refint\CareerPlatform.Model.dll
+D:\Projects\CareerPlatform\CareerPlatform.Model\obj\Debug\net6.0\CareerPlatform.Model.pdb
+D:\Projects\CareerPlatform\CareerPlatform.Model\obj\Debug\net6.0\ref\CareerPlatform.Model.dll

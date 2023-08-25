@@ -1,0 +1,17 @@
+D:\Projects\CareerPlatform\CareerPlatform.DataAccess\bin\Debug\net6.0\CareerPlatform.DataAccess.deps.json
+D:\Projects\CareerPlatform\CareerPlatform.DataAccess\bin\Debug\net6.0\CareerPlatform.DataAccess.dll
+D:\Projects\CareerPlatform\CareerPlatform.DataAccess\bin\Debug\net6.0\CareerPlatform.DataAccess.pdb
+D:\Projects\CareerPlatform\CareerPlatform.DataAccess\bin\Debug\net6.0\CareerPlatform.Model.dll
+D:\Projects\CareerPlatform\CareerPlatform.DataAccess\bin\Debug\net6.0\Infrastructure.dll
+D:\Projects\CareerPlatform\CareerPlatform.DataAccess\bin\Debug\net6.0\CareerPlatform.Model.pdb
+D:\Projects\CareerPlatform\CareerPlatform.DataAccess\bin\Debug\net6.0\Infrastructure.pdb
+D:\Projects\CareerPlatform\CareerPlatform.DataAccess\obj\Debug\net6.0\CareerPlatform.DataAccess.csproj.AssemblyReference.cache
+D:\Projects\CareerPlatform\CareerPlatform.DataAccess\obj\Debug\net6.0\CareerPlatform.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\CareerPlatform\CareerPlatform.DataAccess\obj\Debug\net6.0\CareerPlatform.DataAccess.AssemblyInfoInputs.cache
+D:\Projects\CareerPlatform\CareerPlatform.DataAccess\obj\Debug\net6.0\CareerPlatform.DataAccess.AssemblyInfo.cs
+D:\Projects\CareerPlatform\CareerPlatform.DataAccess\obj\Debug\net6.0\CareerPlatform.DataAccess.csproj.CoreCompileInputs.cache
+D:\Projects\CareerPlatform\CareerPlatform.DataAccess\obj\Debug\net6.0\CareerPlatform.DataAccess.csproj.CopyComplete
+D:\Projects\CareerPlatform\CareerPlatform.DataAccess\obj\Debug\net6.0\CareerPlatform.DataAccess.dll
+D:\Projects\CareerPlatform\CareerPlatform.DataAccess\obj\Debug\net6.0\refint\CareerPlatform.DataAccess.dll
+D:\Projects\CareerPlatform\CareerPlatform.DataAccess\obj\Debug\net6.0\CareerPlatform.DataAccess.pdb
+D:\Projects\CareerPlatform\CareerPlatform.DataAccess\obj\Debug\net6.0\ref\CareerPlatform.DataAccess.dll
